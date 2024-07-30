@@ -114,7 +114,7 @@ const Arrival = () => {
             </div>
             <div className="mt-4">
               <div className="font-semibold uppercase">{item.name}</div>
-              <div>ENG MASHXURLARENG MASHXURLAR{item.price}</div>
+              {/* <div>ENG MASHXURLAR{item.price}</div> */}
             </div>
           </div>
         ))}
