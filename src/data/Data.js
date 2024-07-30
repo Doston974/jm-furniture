@@ -10,10 +10,6 @@ export const nav = [
     text: "Biz haqimizda",
   },
   {
-    path: "/",
-    text: "Ishlab chiqarishimiz",
-  },
-  {
     path: "/contacts",
     text: "Kontaktlar",
   },
